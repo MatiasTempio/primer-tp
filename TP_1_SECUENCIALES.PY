@@ -6,8 +6,8 @@
 
 
 #1) Crear un programa que imprima por pantalla el mensaje: “Hola Mundo!”.
-
-print("hola mundo")
+saludo = "hola mundo"
+print(saludo)
 
 
 #2) Crear un programa que pida al usuario su nombre e imprima por pantalla un saludo usando 
@@ -105,5 +105,7 @@ print("hola mundo")
 #prom = (num1 + num2 + num3) / 3
 
 #print(f"el promedio de tus numeros es: {prom}")
+
+
 
 
