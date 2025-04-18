@@ -15,8 +15,8 @@ print(saludo)
 #por pantalla “Hola Marcos!”. Consejo: esto será más sencillo si utilizas print(f…) para 
 #realizar la impresión por pantalla.
 
-#nombre = input("dime tu nombre, por favor: ")
-#print(f"hola {nombre}! mucho gusto.")
+nombre = input("dime tu nombre, por favor: ")
+print(f"hola {nombre}! mucho gusto.")
 
 
 #3) Crear un programa que pida al usuario su nombre, apellido, edad y lugar de residencia e 
